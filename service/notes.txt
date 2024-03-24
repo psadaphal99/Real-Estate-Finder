@@ -1,0 +1,44 @@
+updated procedure list 
+
+// login/signup
+
+1. procedure to login Done
+2. procedure to get role Done
+3. procedure to signup Done
+4. procedure to delete account. Done
+
+// user procedures
+1. GET PROCEDURES for available areas in DB Done
+2. GET PROCEDURE FOR LISTINGS - INput- rent / SALE Done
+3. GET PROCEDURES FOR complete listing detail Done
+4. procedure for create tour. Done
+5. procedure for apply to listing. Done
+6. procedure for viewing all applied applications. Done
+7. procedure for viewing all applied tours for the user. Done
+8. procedure to get details of a specific application. Done
+9. procedure to get details of a specific tour. Done
+10. cancel tour request Done
+11. cancel/withdraw application Done
+//12. update application or tour request - not sure ? ( can user edit this info)
+
+//  broker procedures
+1. procedure to get assigned properties to a broker Done
+2. procedure to get details of a specific property Done
+3. procedure to view tour requests DOne
+4. procedure to view application requests Done
+5. procedure to update a tour request Done
+6. procedure to update a application request Done
+7. procedure to create a listing DOne
+8. procedure to update a listing Done
+9. procedure to view a specific listing Done
+10. procedure to view all listings Done
+11. procedure to delete a listing Done
+
+Owner procedures
+ 1. procedure to create a property Done
+ 2. procedure to view a specific property Done
+ 3. procedure to view all properties created Done
+ 4. procedure to update a property Done
+ 5. procedure to delete a property Done
+ 6. procedure to view all listings of a property. Done
+ 7. procedure to view a particular listing of a property. Done
